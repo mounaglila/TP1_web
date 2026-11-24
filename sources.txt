@@ -1,0 +1,6 @@
+C:\apache-tomcat-9.0.96\webapps\TP1\WEB-INF\src\CountVisits.java
+C:\apache-tomcat-9.0.96\webapps\TP1\WEB-INF\src\FormServlet.java
+C:\apache-tomcat-9.0.96\webapps\TP1\WEB-INF\src\ListItems.java
+C:\apache-tomcat-9.0.96\webapps\TP1\WEB-INF\src\ReadCookie.java
+C:\apache-tomcat-9.0.96\webapps\TP1\WEB-INF\src\ShowSession.java
+C:\apache-tomcat-9.0.96\webapps\TP1\WEB-INF\src\isep\lab1\bean\Person.java
